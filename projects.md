@@ -32,7 +32,7 @@ For SJTU students who are interested in doing projects with me, please feel free
       <div>
         <div class="card">
           <div class="card__image">
-            <img class="image" src="/assets/projects/project-surf1.png"/>
+            <img class="image" src="/assets/projects/1.png"/>
           </div>
           <div class="card__content">
             <div class="card__header">
