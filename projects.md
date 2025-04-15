@@ -32,7 +32,7 @@ For SJTU students who are interested in doing projects with me, please feel free
       <div>
         <div class="card">
           <div class="card__image">
-            <img class="image" src="/assets/projects/1.png"/>
+            <img class="image" src="/assets/projects/1.jpeg"/>
           </div>
           <div class="card__content">
             <div class="card__header">
@@ -50,7 +50,7 @@ For SJTU students who are interested in doing projects with me, please feel free
       <div>
         <div class="card">
           <div class="card__image">
-            <img class="image" src="/assets/projects/project-surf2.png"/>
+            <img class="image" src="/assets/projects/2.jpeg"/>
           </div>
           <div class="card__content">
             <div class="card__header">
@@ -70,7 +70,7 @@ For SJTU students who are interested in doing projects with me, please feel free
       <div>
         <div class="card">
           <div class="card__image">
-            <img class="image" src="/assets/projects/project-surf1.png"/>
+            <img class="image" src="/assets/projects/3.jpeg"/>
           </div>
           <div class="card__content">
             <div class="card__header">
@@ -88,7 +88,7 @@ For SJTU students who are interested in doing projects with me, please feel free
       <div>
         <div class="card">
           <div class="card__image">
-            <img class="image" src="/assets/projects/project-fmp-21-enhaoyang.png"/>
+            <img class="image" src="/assets/projects/4.jpeg"/>
           </div>
           <div class="card__content">
             <div class="card__header">
@@ -106,7 +106,7 @@ For SJTU students who are interested in doing projects with me, please feel free
       <div>
         <div class="card">
           <div class="card__image">
-            <img class="image" src="/assets/projects/project-digitalcampus.png"/>
+            <img class="image" src="/assets/projects/5.jpeg"/>
           </div>
           <div class="card__content">
             <div class="card__header">
@@ -124,7 +124,7 @@ For SJTU students who are interested in doing projects with me, please feel free
       <div>
         <div class="card">
           <div class="card__image">
-            <img class="image" src="/assets/projects/project-hvar2.png"/>
+            <img class="image" src="/assets/projects/6.jpeg"/>
           </div>
           <div class="card__content">
             <div class="card__header">
@@ -142,7 +142,7 @@ For SJTU students who are interested in doing projects with me, please feel free
       <div>
         <div class="card">
           <div class="card__image">
-            <img class="image" src="/assets/projects/project-fmp-21-jielin.png"/>
+            <img class="image" src="/assets/projects/7.jpeg"/>
           </div>
           <div class="card__content">
             <div class="card__header">
@@ -160,7 +160,7 @@ For SJTU students who are interested in doing projects with me, please feel free
       <div>
         <div class="card">
           <div class="card__image">
-            <img class="image" src="/assets/projects/project-fmp-21-ningningxu.png"/>
+            <img class="image" src="/assets/projects/8.jpeg"/>
           </div>
           <div class="card__content">
             <div class="card__header">
@@ -178,7 +178,7 @@ For SJTU students who are interested in doing projects with me, please feel free
       <div>
         <div class="card">
           <div class="card__image">
-            <img class="image" src="/assets/projects/project-mobilevr.png"/>
+            <img class="image" src="/assets/projects/9.jpeg"/>
           </div>
           <div class="card__content">
             <div class="card__header">
@@ -198,7 +198,7 @@ For SJTU students who are interested in doing projects with me, please feel free
       <div>
         <div class="card">
           <div class="card__image">
-            <img class="image" src="/assets/projects/project-memoryvr.png"/>
+            <img class="image" src="/assets/projects/10.jpeg"/>
           </div>
           <div class="card__content">
             <div class="card__header">
