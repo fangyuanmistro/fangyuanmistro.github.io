@@ -23,7 +23,7 @@ The best part is always the amazing <b>people</b> that I meet, climb together an
 <p> 🐈‍⬛ 🐈 <b>Co-conspirators in crime</b>: Meet <em>Pipi</em> and <em>Dudu</em>, my shadow-in-fur. They supervise my chaos with judgy eyes and purr approval. </p>
 </div>
 <p>🕺 <b>Homebase shenanigans</b>: When not defying gravity, I’m slicing neon beats in <em>Beat Saber</em> ⚡, burning kitchens in <em>Overcooked</em> 🔥 (RIP, virtual tomatoes), or <em>Just Dancing</em> 💃 like nobody’s watching (but the Switch is scoring me… rude).</p> 
-<p>☕ <b>Caffeine + art = love language</b>b: Hunt me in cozy cafes—latte in hand, plotting my next mischief. Or wander museums with me; I’ll gasping at brushstrokes or whispering “<em>why is this modern art?</em>”</p>
+<p>☕ <b>Caffeine + art = love language</b>: Hunt me in cozy cafes—latte in hand. Or wander museums with me; I’ll gasping at brushstrokes or whispering “<em>why is this modern art?</em>”</p>
 <div>
 <p> 
 Let me know if you’d like to tweak the vibe further! 😊 
