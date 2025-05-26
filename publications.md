@@ -4,6 +4,10 @@ titles: Publications
 # aside:
 #   toc: true
 ---
+#### 2025
+- **Chang, F.,** Chen, B., Zhang, X., Sheng, L., Zhu, D., Zhao, J., and Gu, Z., 2025. Crossmodal Interactions in Human-Robot Communication: Exploring the Influences of Scent and Voice Congruence. 2025 CHI Conference on Human Factors in Computing Systems.
+- **Chang, F.,** Zhao, J., Zhu, D., Gu, Z., and Östlund, B. 2025. Toward Bricolage in Welfare Technology Use: A Cross-cultural Comparison of Caregivers' Responses to Social Alarms in Swedish and Chinese Nursing Homes. 27th International Conference on Human-Computer Interaction. Innovation in Aging, 8(10), p.igae077.
+
 
 #### 2024
 - **Chang, F.,** Sheng, L. and Gu, Z., 2024. Investigating the Integration and the Long-Term Use of Smart Speakers in Older Adults’ Daily Practices: Qualitative Study. JMIR mHealth and uHealth, 12, p.e47472.
