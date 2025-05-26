@@ -187,7 +187,7 @@ For SJTU students who are interested in doing projects with me, please feel free
             <p> Investigating the Congruency of Olfaction and Auditory Stimuli on HRI </p>
             <p><b>PI</b>. </p>
             <p> @ SJTU, Shanghai.</p> 
-            <p><a class="button button--secondary button--pill" href="https://dl.acm.org/doi/pdf/10.1145/3706598.3713825">PDF Under Processing</a></p>
+            <p><a class="button button--secondary button--pill" href="[https://dl.acm.org/doi/pdf/10.1145/3706598.3713825">PDF</a></p>
             <p> 
             </p>
           </div>
