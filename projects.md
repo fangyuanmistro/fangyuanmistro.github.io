@@ -151,7 +151,7 @@ For SJTU students who are interested in doing projects with me, please feel free
             <p> Designing a Smart Dog Kennel to Reduce Separation Anxiety in Pets</p>
             <p> <b>PI</b>. </p>
             <p> @ SJTU, Shanghai. </p>
-            <p><a class="button button--secondary button--pill" href="HTTP://h">Demo Under Processing</a></p>
+            <p><a class="button button--secondary button--pill" href="https://exhibition.designschool.sjtu.edu.cn/preview/1468f7a4-2805-453f-95d1-30ad3ebe13fd/">Demo</a></p>
           </div>
         </div>  
       </div>
