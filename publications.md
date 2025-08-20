@@ -5,6 +5,9 @@ titles: Publications
 #   toc: true
 ---
 #### 2025
+- **Chang, F.,** Yang, Q., Sheng, L., Gu, Z., and Wang, G., 2025. Mobile App for Caregiver Support: Real-Time Stress Monitoring and Tailored Exercise Reminders to Alleviate Anxiety and Fatigue. International Journal of Psychophysiology, 213:113160.
+- **Chang, F.,** Yang, S., Zhang, Y., Tian, C., and Xiang, H. 2025. Efficacy of Biofeedback-Based Serious Game for Pain Alleviation in Middle-Aged and Older Patients with Ovarian Cancer: A Randomized Controlled Trial. Games for Health Journal.
+- **Chang, F.,** Shi, Z., Han, X., Miao, J., Guo, X., Wu, Z., Gu, Z., and Tang, W., 2025. Unraveling and Navigating Paradoxical Tensions in Integrating Livestock Health Monitoring Systems: Case Studies from Chinese Farms. Rural Sociology.
 - **Chang, F.,** Chen, B., Zhang, X., Sheng, L., Zhu, D., Zhao, J., and Gu, Z., 2025. Crossmodal Interactions in Human-Robot Communication: Exploring the Influences of Scent and Voice Congruence. 2025 CHI Conference on Human Factors in Computing Systems.
 - **Chang, F.,** Zhao, J., Zhu, D., Gu, Z., and Östlund, B. 2025. Toward Bricolage in Welfare Technology Use: A Cross-cultural Comparison of Caregivers' Responses to Social Alarms in Swedish and Chinese Nursing Homes. 27th International Conference on Human-Computer Interaction. Innovation in Aging, 8(10), p.igae077.
 
