@@ -19,8 +19,6 @@ Currently I am leading several prestigious research grants, including the Young 
 - **Assistant Professor** in School of Design, Shanghai Jiao Tong University, 2024 - Now
 - **Postdoc** in School of Design × School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University, 2022 - 2024
 - **PhD** in Technology in Health Care, KTH Royal Institute of Technology, 2017 - 2021
-- **ME** in Furniture Design and Engineering, Nanjing Forestry University, 2013 - 2016
-- **BE** in Industrial Design (Furniture Design), Nanjing Forestry University, 2009 - 2013
 
 ## Teaching
 - **Co-Teacher**, Interaction Design Principles, Shanghai Jiao Tong University, 2024/25 S2.
